@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://myancientdna.com/</loc><lastmod>2026-08-21</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://myancientdna.com/</loc><lastmod>2026-08-25</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
 <url><loc>https://myancientdna.com/what-is-ancient-dna</loc><lastmod>2026-08-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://myancientdna.com/ancient-dna-test-guide</loc><lastmod>2026-08-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://myancientdna.com/myheritage-ancient-origins-review</loc><lastmod>2026-08-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -62,4 +62,11 @@
 <url><loc>https://myancientdna.com/about</loc><lastmod>2026-08-21</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 <url><loc>https://myancientdna.com/privacy-policy</loc><lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
 <url><loc>https://myancientdna.com/contact</loc><lastmod>2026-08-21</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+<url><loc>https://myancientdna.com/ancient-ancestor-quiz</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-ancient-egyptian</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-viking</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-roman</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-steppe</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-hunter-gatherer</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://myancientdna.com/quiz-result-early-farmer</loc><lastmod>2026-08-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
