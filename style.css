@@ -812,6 +812,7 @@ transition: transform 0.2s var(--ease), box-shadow 0.2s var(--ease), border-colo
 }
 
 .quiz-option:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border-color: var(--color-accent-2); }
+.quiz-option:disabled { opacity: 0.55; cursor: default; pointer-events: none; }
 
 .quiz-option-icon {
 flex: none;
